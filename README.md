@@ -42,12 +42,11 @@ data
 
 Each line of these `jsonl` files is a json object, which contains the following fields:
 
-```
 - input: str, the original input
 - input_tokens[list]: list[str], the tokenized input
 - output: str, the original output
 - output_tokens[list]: list[str], the tokenized output
-```
+
 
 ## Usage
 
