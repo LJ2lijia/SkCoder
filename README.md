@@ -13,6 +13,7 @@ Official implementation of our ICSE 2023 paper on Automatic Code Generation. [Pa
 
 ## Requirements
 
+- Java 1.8.0
 - python 3.10
 - pytorch 1.13.1
 - transformers 4.24.0
