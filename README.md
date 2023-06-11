@@ -134,7 +134,7 @@ The editor is train to generate code based on the requirement and code sketch. W
 We run `process2editor.py` to generate the training data for the editor.
 
 ```Bash
-python process2editor.py --data_path data/hearthstone
+python process4editor.py --data_path data/hearthstone
 ```
 
 The generated data is saved in `data/hearthstone/{train,dev,test}_editor.jsonl`.
