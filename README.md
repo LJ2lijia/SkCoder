@@ -154,7 +154,7 @@ We evaluate the generated code using three metrics, including Exact Match (EM), 
 
 ```Bash
 cd evaluator
-python evaluator.py --input_file {prediction_path} --lang {lang}
+python evaluate.py --input_file {prediction_path} --lang {lang}
 ```
 
 Where `prediction_path` is the path of the generated code, such as `../editor/sh/saved_models/hearthstone/prediction/test_best-bleu.jsonl`.
