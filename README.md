@@ -193,9 +193,22 @@ The code is based on [Re2Com](https://github.com/Gompyn/re2com-opensource), [Gra
 If you find this repository useful, please cite our paper:
 ```
 @inproceedings{SkCoder,
-  title={SkCoder: A Sketch-based Approach for Automatic Code Generation},
-  author={Li, Jia and Li, Yongmin and Li, Ge and Jin, Zhi and Hao, Yiyang and Hu, Xing},
-  booktitle={Proceedings of the ACM/IEEE 45nd International Conference on Software Engineering},
-  year={2023}
+  author       = {Jia Li and
+                  Yongmin Li and
+                  Ge Li and
+                  Zhi Jin and
+                  Yiyang Hao and
+                  Xing Hu},
+  title        = {SkCoder: {A} Sketch-based Approach for Automatic Code Generation},
+  booktitle    = {45th {IEEE/ACM} International Conference on Software Engineering,
+                  {ICSE} 2023, Melbourne, Australia, May 14-20, 2023},
+  pages        = {2124--2135},
+  publisher    = {{IEEE}},
+  year         = {2023},
+  url          = {https://doi.org/10.1109/ICSE48619.2023.00179},
+  doi          = {10.1109/ICSE48619.2023.00179},
+  timestamp    = {Wed, 19 Jul 2023 10:09:12 +0200},
+  biburl       = {https://dblp.org/rec/conf/icse/LiLLJHH23.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```
